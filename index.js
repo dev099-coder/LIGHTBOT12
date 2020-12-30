@@ -49,11 +49,11 @@ const arrayBulan = ['Januari', 'Februari', 'Maret', 'April', 'Mei', 'Juni', 'Jul
 const bulan = arrayBulan[moment().format('MM') - 1]
 
 const config = {
-    DEV JAVA: '👾LIGHTBOT👾', // TOBAT SU ASU
-    instagram: 'https://instagram.com/devjavastudios?igshid=1c86aogzt57bu', // INFO NÃO MUDE
-    nomer: 'wa.me/5511946817667', // INFO SU JNGAN DI UBAH
-    youtube: 'https://youtube.com/channel/UCE7x81dLhF0BQSDLSqCUjBQ', // KINTIL
-    whatsapp: 'https://chat.whatsapp.com/GLgii3nks3wBKo0MOlYLdu', // BABI
+    A187: '👾AR15BOT👾', // TOBAT SU ASU
+    instagram: 'https://instagram.com/_sadboy.ig', // INFO JANGAN DI UBAH
+    nomer: 'wa.me/6285722553839', // INFO SU JNGAN DI UBAH
+    youtube: 'https://youtube.com/channel/UCGYLWtyT9IADYNUiK0uZiGg', // KINTIL
+    whatsapp: 'https://chat.whatsapp.com/DSSHmG2KjKJLoFp9B9mkVs', // BABI
     tanggal: `TANGGAL: ${moment().format('DD')} ${bulan} ${moment().format('YYYY')}`,
     waktu: time
 }
